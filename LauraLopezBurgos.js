@@ -24,4 +24,4 @@ while (nMax < 1000000) {
 	nMax = nMax + 1;
 }
 
-console.log("\nLa solución es", nResult, "en", nNumSteps, "pasos.");
+console.log(nResult);
